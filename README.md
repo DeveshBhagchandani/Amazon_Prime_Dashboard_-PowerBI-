@@ -33,10 +33,4 @@ This project presents a detailed customer support analytics dashboard built usin
 - Data Cleaning & Transformation (Power Query)
 - Visual Storytelling
 
-### 💼 **Resume Summary**
-
-**Amazon Prime: Customer Support Dashboard (Power BI)**  
-Built an interactive Power BI dashboard to identify KPI, analyze ticket trends, agent performance, and resolution metrics using real-time customer support data.
-
----
 
